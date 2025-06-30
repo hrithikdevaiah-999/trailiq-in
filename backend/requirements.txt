@@ -1,0 +1,7 @@
+pandas
+pyarrow
+dash
+plotly
+geopy
+requests
+bottleneck>=1.3.7

@@ -1,0 +1,24 @@
+.venv/
+.env/
+__pycache__/
+*.py[cod]
+
+*.swp
+.idea/
+.vscode/
+
+
+node_modules/
+frontend/node_modules/
+dist/                # Vite/React build output
+build/
+
+
+data/raw/
+data/*.parquet
+data/climate_json/
+data/raw/geocode_cache*.json
+
+
+.DS_Store
+Thumbs.db

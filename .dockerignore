@@ -1,0 +1,14 @@
+.venv
+node_modules
+
+frontend/node_modules/
+
+# Data & caches
+data/raw/
+data/*.parquet
+data/raw/*.json
+*.parquet
+
+data/climate_json
+.DS_Store
+.git
